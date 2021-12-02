@@ -106,7 +106,7 @@ body {
 }
 
 .card__body {
-  margin: 0 1rem;
+  margin: 0 2rem;
   color: hsl(224, 23%, 55%);
 }
 
@@ -116,14 +116,13 @@ body {
   background-color: hsl(225, 100%, 98%);
   border-radius: 10px;
   padding: 1rem;
-  margin: 1rem;
+  margin: 1rem 2rem;
   align-items: center;
 }
 
 .plan__selection {
   text-align: left;
   color: hsl(224, 23%, 55%);
-  margin-left: 0.5rem;
 }
 
 .plan__selection-title {
@@ -142,7 +141,7 @@ body {
 
 .card__payment-btn {
   cursor: pointer;
-  margin: 1rem;
+  margin: 1rem 2rem;
   background-color: hsl(245, 75%, 52%);
   color: white;
   border-radius: 10px;
