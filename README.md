@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Robert-Rynard/order-summary-component-main)
-- Live Site URL: [Add live site URL here](https://robert-rynard.github.io/order-summary-component-main/)
+- Solution URL: [https://github.com/Robert-Rynard/order-summary-component-main](https://github.com/Robert-Rynard/order-summary-component-main)
+- Live Site URL: [https://robert-rynard.github.io/order-summary-component-main/](https://robert-rynard.github.io/order-summary-component-main/)
 
 ## My process
 
